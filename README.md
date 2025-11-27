@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dua Habib a Web and Agentic AI Developer!
+# 👋 Hi, I'm Dua Habib Agentic AI Developer!
 
 
 I am an AI Automation Agents Developer building intelligent, automated solutions that streamline workflows, manage tasks, and provide actionable insights. Passionate about AI, machine learning, and automation, I design systems that make processes smarter, faster, and more efficient.
